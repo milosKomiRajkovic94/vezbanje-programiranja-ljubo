@@ -16,3 +16,7 @@ Komande:
 - git branch -M main (kreiranje i prebacivanje na main MASTER granu)
 - git remote add origin https://github.com/milosKomiRajkovic94/vezbanje-programiranja-ljubo.git (dodavanje repozitorijuma lokalno gde će se pushovati izmene)
 - git push -u origin main (pushovanje na master granu)
+
+## 06.05.2021
+
+practiceObject.js je file u kom smo vežbali pristup objektu i njegovim funkcijama i property-jima.
